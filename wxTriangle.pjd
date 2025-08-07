@@ -796,6 +796,17 @@
           <long name="locked">0</long>
           <long name="zoom-level">100</long>
         </document>
+        <document>
+          <string name="title">"triangle.xpm"</string>
+          <string name="type">"image-document"</string>
+          <string name="filename">"triangle.xpm"</string>
+          <string name="icon-name">"image"</string>
+          <long name="is-transient">0</long>
+          <long name="owns-file">0</long>
+          <long name="title-mode">0</long>
+          <long name="locked">0</long>
+          <long name="zoom-level">100</long>
+        </document>
       </document>
     </document>
   </documents>
